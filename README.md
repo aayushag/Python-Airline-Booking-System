@@ -1,0 +1,4 @@
+# Python-Airline-Booking-System
+This project helps to build a interface between the airline companies and the passengers so that they can book tickets from anywhere in the world. The system should ask for the travel from and travel to cities. 
+For booking the customers has to sign-up or sign-in and enter the passenger details. It is a simple airline railway reservation system which uses tkinter to build up a GUI and SQLite database to store the signup information of a passenger. The travel from and to city should be different otherwise it would show an error. 
+It uses different modules of tkinter to build a reservation system using button, label, message box, entry, frames and title. When the program runs, it will show a frame which asks about departure and arrival city, and if the customers wants to book he can proceed with the sign-in and sign-up. 
